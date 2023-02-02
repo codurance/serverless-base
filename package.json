@@ -21,7 +21,7 @@
     "aws-sdk": "^2.796.0",
     "husky": "^4.3.0",
     "middy": "^0.36.0",
-    "serverless": "^2.11.1"
+    "serverless": "^2.72.3"
   },
   "devDependencies": {
     "serverless-offline": "^6.8.0"
